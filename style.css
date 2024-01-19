@@ -101,6 +101,13 @@ nav li{
     height: 26rem;
     margin-top: -1rem;
     width: 44.5rem;
+
+}
+@media screen and (max-width: 600px) {
+    .adv-img{
+        display: none;
+    }
+    
 }
 .offers{
     margin-top: 2rem;
