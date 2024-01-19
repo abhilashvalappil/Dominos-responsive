@@ -1,0 +1,130 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* min-height: 100vh; */
+}
+nav{
+    background-color: rgb(0, 102, 167);
+}
+nav ul{
+    width: 103%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav li{
+    width: 200px;
+    height: 50px;
+}
+.li-1{
+    margin-top: 10px;
+    width: 1.8rem;
+    float: right;
+    
+}
+.li-2{
+    color: rgb(255, 255, 255);
+    font-family: proxima-nova, sans-serif;
+    font-size: 0.75rem;
+    padding-left: 1.125rem;
+    text-decoration: none;
+}
+.li-3{
+    color:  rgb(85, 204, 246);
+    font-family: proxima-nova, sans-serif;
+    font-size: 0.75rem;
+    padding-left: 1.125rem;
+    text-decoration: none;
+}
+.row-2{
+    display: flex;
+}
+.domino-logo{
+    margin-left: 4rem;
+    margin-top: 4rem;
+    width: 20.6rem;
+    height: 3.25rem;
+    margin-bottom: 1rem;
+}
+.h-2{
+    font-size: 1.3rem;
+    margin-left: 4rem;
+    color: rgb(106, 103, 110);
+    line-height: 2rem;
+    display: block;
+    width: 80%;
+}
+.btn-img{
+    width: 1.3rem;
+}
+
+.radio-1{
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgb(0, 102, 167);
+}
+.form-control{
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+.locate-btn{
+    float: right;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 171, 0);
+    border: none;
+    margin-left: 1.62rem;
+    font-weight: 600;
+    width: 8rem;
+    height: 2.5rem;
+}
+.lct-img{
+    width: 1rem;
+    height: 2rem;
+}
+.locate-me{
+    width: 9.375rem;
+    margin-right: 9.375rem;
+    margin-top: 1.938rem;
+    color: white;
+}
+.locate-me2{
+    width: 2.375rem;
+    /* margin-right: 9.375rem; */
+    margin-top: 1.938rem;
+    color: white;
+}
+.adv-img{
+    height: 26rem;
+    margin-top: -1rem;
+    width: 44.5rem;
+}
+.offers{
+    margin-top: 2rem;
+    margin-left: 7rem;
+    font-size: 1.125rem;
+    color: rgb(95, 136, 163);
+    font-weight: 600;
+
+}
+.paytm-img{
+    margin-top: 1rem;
+    width: 10rem;
+    height: 6rem;
+    border: 0.7px dotted rgb(151, 151, 151);
+}
+.dominos-logo{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    width: 18.6rem;
+    height: 3rem;
+
+}
+ 
+ 
+ 
+ 
+ 
